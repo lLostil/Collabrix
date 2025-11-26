@@ -1,0 +1,1 @@
+This directory houses Alembic migrations. Use `alembic upgrade head` to apply the latest schema changes.
